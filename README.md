@@ -10,6 +10,6 @@
 - create new poetry environment
 
 example:
-![img1](/images/img1.png")
+![img1](/images/img1.png)
 
 
