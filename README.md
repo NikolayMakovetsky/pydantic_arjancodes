@@ -10,8 +10,6 @@
 - create new poetry environment
 
 example:
-![img1](/images/img1.png "creating poetry env")
+![img1](/images/img1.png")
 
-<kbd>
-  <img src="/images/img1.png" alt="creating poetry env" />
-</kbd>
+
