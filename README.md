@@ -10,4 +10,4 @@
 - create new poetry environment
 
 example:
-![creating poetry env](images\img1.png)
+![creating poetry env](/images/img1.png)
